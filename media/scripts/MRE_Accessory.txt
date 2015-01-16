@@ -1,0 +1,26 @@
+/** ================================================ **/
+/** NCCivMRE Accessory Items							 **/
+/** ================================================ **/
+
+module NCCivMRE
+{
+	item ChewingGum
+	{
+		Type				= Food,
+		DisplayName			= Chewing Gum,
+		Weight				= 0.1,
+		HungerChange		= -2,
+		UnhappyChange		= -10,
+		Icon				= MRE_ChewingGum,
+	}
+	
+	item Candy
+	{
+		Type				= Food,
+		DisplayName			= Candy,
+		Weight				= 0.1,
+		HungerChange		= -5,
+		UnhappyChange		= -10,
+		Icon				= MRE_Candy,
+	}
+}

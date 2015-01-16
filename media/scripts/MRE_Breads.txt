@@ -1,0 +1,48 @@
+/** ================================================ **/
+/** NCCivMRE Meal Bread							 **/
+/** ================================================ **/
+
+module NCCivMRE
+{
+	item Crackers
+	{
+		Type				= Food,
+		DisplayName			= Crackers,
+		Weight				= 0.2,
+		HungerChange		= -5,
+		ThirstChange		= +10,
+		BoredomChange		= 0,
+		UnhappyChange		= 0,
+		Icon				= MRE_Bread,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item Tortillas
+	{
+		Type				= Food,
+		DisplayName			= Tortillas,
+		Weight				= 0.2,
+		HungerChange		= -5,
+		ThirstChange		= +10,
+		BoredomChange		= 0,
+		UnhappyChange		= 0,
+		Icon				= MRE_Bread,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item WheatSnackBread
+	{
+		Type				= Food,
+		DisplayName			= Wheat Snack Bread,
+		Weight				= 0.2,
+		HungerChange		= -5,
+		ThirstChange		= +10,
+		BoredomChange		= 0,
+		UnhappyChange		= 0,
+		Icon				= MRE_Bread,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+}

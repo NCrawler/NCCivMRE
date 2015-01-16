@@ -1,0 +1,90 @@
+/** ================================================ **/
+/** NCCivMRE Meal Sides								 **/
+/** ================================================ **/
+
+module NCCivMRE
+{
+	item PotatoesAuGratin
+	{
+		Type				= Food,
+		DisplayName			= Potatoes Au Gratin,
+		Weight				= 0.5,
+		HungerChange		= -10,
+		ThirstChange		= -5,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Side,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item FriedRice
+	{
+		Type				= Food,
+		DisplayName			= Fried Rice,
+		Weight				= 0.5,
+		HungerChange		= -10,
+		ThirstChange		= -5,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Side,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item PotatoCheddarSoup
+	{
+		Type				= Food,
+		DisplayName			= Potato Cheddar Soup,
+		Weight				= 0.5,
+		HungerChange		= -10,
+		ThirstChange		= -5,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Side,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item Applesauce
+	{
+		Type				= Food,
+		DisplayName			= Applesauce,
+		Weight				= 0.5,
+		HungerChange		= -10,
+		ThirstChange		= -10,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Side,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item BrownSugarToasterPastry
+	{
+		Type				= Food,
+		DisplayName			= Brown Sugar Toaster Pastry,
+		Weight				= 0.5,
+		HungerChange		= -10,
+		ThirstChange		= +5,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Side,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item HashBrownsBacon
+	{
+		Type				= Food,
+		DisplayName			= Hash Browns with Bacon,
+		Weight				= 0.5,
+		HungerChange		= -10,
+		ThirstChange		= +5,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Side,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+}

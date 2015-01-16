@@ -1,0 +1,76 @@
+/** ================================================ **/
+/** NCCivMRE Meal Spreads							 **/
+/** ================================================ **/
+
+module NCCivMRE
+{
+	item CheeseSpread
+	{
+		Type				= Food,
+		DisplayName			= Cheese Spread,
+		Weight				= 0.3,
+		HungerChange		= -5,
+		ThirstChange		= +10,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Spread,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item StrawberryJam
+	{
+		Type				= Food,
+		DisplayName			= Strawberry Jam,
+		Weight				= 0.3,
+		HungerChange		= -5,
+		ThirstChange		= +5,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Spread,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item PeanutButter
+	{
+		Type				= Food,
+		DisplayName			= Peanut Butter,
+		Weight				= 0.3,
+		HungerChange		= -5,
+		ThirstChange		= +10,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Spread,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item GrapeJelly
+	{
+		Type				= Food,
+		DisplayName			= Grape Jelly,
+		Weight				= 0.3,
+		HungerChange		= -5,
+		ThirstChange		= +5,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Spread,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item BlackberryJam
+	{
+		Type				= Food,
+		DisplayName			= Blackberry Jam,
+		Weight				= 0.3,
+		HungerChange		= -5,
+		ThirstChange		= +5,
+		BoredomChange		= -5,
+		UnhappyChange		= -5,
+		Icon				= MRE_Spread,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+}

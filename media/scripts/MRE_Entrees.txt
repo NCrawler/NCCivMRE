@@ -1,0 +1,146 @@
+/** ================================================ **/
+/** NCCivMRE Meal Entrees							 **/
+/** ================================================ **/
+
+module NCCivMRE
+{
+	item SpaghettiMeatSauce
+	{
+		Type				= Food,
+		DisplayName			= Spaghetti with Meat Sauce,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item ChiliBeans
+	{
+		Type				= Food,
+		DisplayName			= Chili with Beans,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item VegetarianRatatouille
+	{
+		Type				= Food,
+		DisplayName			= Vegetarian Ratatouille,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -5,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item ChickenNoodles
+	{
+		Type				= Food,
+		DisplayName			= Chicken with Noodles,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item BeefRavioliMeatSauce
+	{
+		Type				= Food,
+		DisplayName			= Beef Ravioli in Meat Sauce,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item ChickenFajita
+	{
+		Type				= Food,
+		DisplayName			= Chicken Fajita,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item MeatballsMarinaraSauce
+	{
+		Type				= Food,
+		DisplayName			= Meatballs in Marinara Sauce,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item VegetableLasagna
+	{
+		Type				= Food,
+		DisplayName			= Vegetable Lasagna,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -5,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item AppleMapleRolledOats
+	{
+		Type				= Food,
+		DisplayName			= Apple Maple Rolled Oats,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item PorkSausagePatty
+	{
+		Type				= Food,
+		DisplayName			= Pork Sausage Patty,
+		Weight				= 0.5,
+		HungerChange		= -25,
+		ThirstChange		= -10,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Entree,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+}

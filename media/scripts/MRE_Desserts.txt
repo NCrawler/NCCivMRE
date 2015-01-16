@@ -1,0 +1,146 @@
+/** ================================================ **/
+/** NCCivMRE Meal Desserts							 **/
+/** ================================================ **/
+
+module NCCivMRE
+{
+	item StrawberryBananaDairyShake
+	{
+		Type				= Food,
+		DisplayName			= Strawberry Banana Dairy Shake,
+		Weight				= 0.5,
+		HungerChange		= -5,
+		ThirstChange		= -15,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item StrawberryDairyShake
+	{
+		Type				= Food,
+		DisplayName			= Strawberry Dairy Shake,
+		Weight				= 0.5,
+		HungerChange		= -5,
+		ThirstChange		= -15,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item ChocolateChipCookie
+	{
+		Type				= Food,
+		DisplayName			= Chocolate Chip Cookie,
+		Weight				= 0.5,
+		HungerChange		= -5,
+		ThirstChange		= +5,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item StrawberryToasterPastry
+	{
+		Type				= Food,
+		DisplayName			= Strawberry Toaster Pastry,
+		Weight				= 0.5,
+		HungerChange		= -10,
+		ThirstChange		= +5,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item ChocolatePudding
+	{
+		Type				= Food,
+		DisplayName			= Chocolate Pudding,
+		Weight				= 0.5,
+		HungerChange		= -5,
+		ThirstChange		= -5,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item SpicePoundCake
+	{
+		Type				= Food,
+		DisplayName			= Spice Pound Cake,
+		Weight				= 0.5,
+		HungerChange		= -5,
+		ThirstChange		= +5,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item VanillaPudding
+	{
+		Type				= Food,
+		DisplayName			= Vanilla Pudding,
+		Weight				= 0.5,
+		HungerChange		= -5,
+		ThirstChange		= -5,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item FudgeBrownie
+	{
+		Type				= Food,
+		DisplayName			= Fudge Brownie,
+		Weight				= 0.5,
+		HungerChange		= -5,
+		ThirstChange		= +5,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item MapleMuffinTop
+	{
+		Type				= Food,
+		DisplayName			= Maple Muffin Top,
+		Weight				= 0.5,
+		HungerChange		= -5,
+		ThirstChange		= +5,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+	
+	item ChocolateToasterPastry
+	{
+		Type				= Food,
+		DisplayName			= Chocolate Toaster Pastry,
+		Weight				= 0.5,
+		HungerChange		= -10,
+		ThirstChange		= +5,
+		BoredomChange		= -10,
+		UnhappyChange		= -10,
+		Icon				= MRE_Dessert,
+		DaysFresh			= 1825,
+		DaysTotallyRotten	= 1826,
+	}
+}

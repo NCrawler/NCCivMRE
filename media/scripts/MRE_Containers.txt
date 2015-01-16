@@ -1,0 +1,45 @@
+/** ================================================ **/
+/** NCCivMRE Meal Containers						 **/
+/** ================================================ **/
+
+module NCCivMRE
+{
+	item MREBag
+	{
+		WeightReduction 	= 2,
+		Weight				= 0.5,
+		Type				= Container,
+		Capacity			= 3,
+		DisplayName			= MRE Bag,
+		Icon				= Container_MREBag,
+		OpenSound			= MREOpen,
+		CloseSound			= MREClose,
+		PutInSound			= MREPutInside,
+	}
+	
+	item MREAccessoryA
+	{
+		WeightReduction 	= 1,
+		Weight				= 0.1,
+		Type				= Container,
+		Capacity			= 1,
+		DisplayName			= MRE Accessory Pack A,
+		Icon				= Container_MREAccessoryA,
+		OpenSound			= MREOpen,
+		CloseSound			= MREClose,
+		PutInSound			= MREPutInside,
+	}
+	
+	item MREAccessoryB
+	{
+		WeightReduction 	= 1,
+		Weight				= 0.1,
+		Type				= Container,
+		Capacity			= 1,
+		DisplayName			= MRE Accessory Pack B,
+		Icon				= Container_MREAccessoryB,
+		OpenSound			= MREOpen,
+		CloseSound			= MREClose,
+		PutInSound			= MREPutInside,
+	}
+}
